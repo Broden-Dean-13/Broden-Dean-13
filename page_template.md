@@ -1,4 +1,4 @@
-# Your Full Name
+# Broden Dean
 
 Welcome to my personal website! Here you'll find information about my background, projects, and interests.
 
@@ -7,7 +7,7 @@ Welcome to my personal website! Here you'll find information about my background
 ## About Me
 
 I am an undergraduate student in Civil Engineering at the University of Nebraska-Lincoln.  
-My interests include *data analytics*, and `Python programming`.
+My interests include Structure Analysis, and Bridge Design.
 
 ---
 
